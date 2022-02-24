@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluppprint or Vio
 - 👀 I’m interested in skateboarding and board sports in general and I am learning to code
-- 🌱 I’m currently learning with the ODin Project
+- 🌱 I’m currently learning with The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
